@@ -49,8 +49,8 @@ class IPTools {
 			$data->push(MagLevString::fromString("iptools"));
 			#/src/iptools/IPTools.hx:24: characters 4-48
 			$bus->call("MindPowered.Telemetry.Send", $data);
-			#/src/iptools/IPTools.hx:25: characters 4-163
-			$err = MagLevError::create(-20000, "Method 'IPTools.SubnetMaskToCIDR' has not yet been implemented. Please email support@mindpowered.dev", $data);
+			#/src/iptools/IPTools.hx:25: characters 4-222
+			$err = MagLevError::create(-20000, "You are trying to use the 'IPTools.SubnetMaskToCIDR' method but it's not quite done yet. Please email support@mindpowered.dev to find out when it will be done.", $data);
 			#/src/iptools/IPTools.hx:26: characters 4-58
 			$result = MagLevResult::fromError($err);
 			#/src/iptools/IPTools.hx:27: characters 4-17
@@ -68,8 +68,8 @@ class IPTools {
 			$data->push(MagLevString::fromString("iptools"));
 			#/src/iptools/IPTools.hx:35: characters 4-48
 			$bus->call("MindPowered.Telemetry.Send", $data);
-			#/src/iptools/IPTools.hx:36: characters 4-155
-			$err = MagLevError::create(-20000, "Method 'IPTools.CalcCIDR' has not yet been implemented. Please email support@mindpowered.dev", $data);
+			#/src/iptools/IPTools.hx:36: characters 4-214
+			$err = MagLevError::create(-20000, "You are trying to use the 'IPTools.CalcCIDR' method but it's not quite done yet. Please email support@mindpowered.dev to find out when it will be done.", $data);
 			#/src/iptools/IPTools.hx:37: characters 4-58
 			$result = MagLevResult::fromError($err);
 			#/src/iptools/IPTools.hx:38: characters 4-17
@@ -87,8 +87,8 @@ class IPTools {
 			$data->push(MagLevString::fromString("iptools"));
 			#/src/iptools/IPTools.hx:46: characters 4-48
 			$bus->call("MindPowered.Telemetry.Send", $data);
-			#/src/iptools/IPTools.hx:47: characters 4-158
-			$err = MagLevError::create(-20000, "Method 'IPTools.IPToDecimal' has not yet been implemented. Please email support@mindpowered.dev", $data);
+			#/src/iptools/IPTools.hx:47: characters 4-217
+			$err = MagLevError::create(-20000, "You are trying to use the 'IPTools.IPToDecimal' method but it's not quite done yet. Please email support@mindpowered.dev to find out when it will be done.", $data);
 			#/src/iptools/IPTools.hx:48: characters 4-58
 			$result = MagLevResult::fromError($err);
 			#/src/iptools/IPTools.hx:49: characters 4-17
@@ -106,8 +106,8 @@ class IPTools {
 			$data->push(MagLevString::fromString("iptools"));
 			#/src/iptools/IPTools.hx:57: characters 4-48
 			$bus->call("MindPowered.Telemetry.Send", $data);
-			#/src/iptools/IPTools.hx:58: characters 4-161
-			$err = MagLevError::create(-20000, "Method 'IPTools.IP4FromDecimal' has not yet been implemented. Please email support@mindpowered.dev", $data);
+			#/src/iptools/IPTools.hx:58: characters 4-220
+			$err = MagLevError::create(-20000, "You are trying to use the 'IPTools.IP4FromDecimal' method but it's not quite done yet. Please email support@mindpowered.dev to find out when it will be done.", $data);
 			#/src/iptools/IPTools.hx:59: characters 4-58
 			$result = MagLevResult::fromError($err);
 			#/src/iptools/IPTools.hx:60: characters 4-17
@@ -125,8 +125,8 @@ class IPTools {
 			$data->push(MagLevString::fromString("iptools"));
 			#/src/iptools/IPTools.hx:68: characters 4-48
 			$bus->call("MindPowered.Telemetry.Send", $data);
-			#/src/iptools/IPTools.hx:69: characters 4-161
-			$err = MagLevError::create(-20000, "Method 'IPTools.IP6FromDecimal' has not yet been implemented. Please email support@mindpowered.dev", $data);
+			#/src/iptools/IPTools.hx:69: characters 4-220
+			$err = MagLevError::create(-20000, "You are trying to use the 'IPTools.IP6FromDecimal' method but it's not quite done yet. Please email support@mindpowered.dev to find out when it will be done.", $data);
 			#/src/iptools/IPTools.hx:70: characters 4-58
 			$result = MagLevResult::fromError($err);
 			#/src/iptools/IPTools.hx:71: characters 4-17
@@ -144,8 +144,8 @@ class IPTools {
 			$data->push(MagLevString::fromString("iptools"));
 			#/src/iptools/IPTools.hx:79: characters 4-48
 			$bus->call("MindPowered.Telemetry.Send", $data);
-			#/src/iptools/IPTools.hx:80: characters 4-157
-			$err = MagLevError::create(-20000, "Method 'IPTools.IPv4ToIPv6' has not yet been implemented. Please email support@mindpowered.dev", $data);
+			#/src/iptools/IPTools.hx:80: characters 4-216
+			$err = MagLevError::create(-20000, "You are trying to use the 'IPTools.IPv4ToIPv6' method but it's not quite done yet. Please email support@mindpowered.dev to find out when it will be done.", $data);
 			#/src/iptools/IPTools.hx:81: characters 4-58
 			$result = MagLevResult::fromError($err);
 			#/src/iptools/IPTools.hx:82: characters 4-17
@@ -163,8 +163,8 @@ class IPTools {
 			$data->push(MagLevString::fromString("iptools"));
 			#/src/iptools/IPTools.hx:90: characters 4-48
 			$bus->call("MindPowered.Telemetry.Send", $data);
-			#/src/iptools/IPTools.hx:91: characters 4-157
-			$err = MagLevError::create(-20000, "Method 'IPTools.ExpandIPv6' has not yet been implemented. Please email support@mindpowered.dev", $data);
+			#/src/iptools/IPTools.hx:91: characters 4-216
+			$err = MagLevError::create(-20000, "You are trying to use the 'IPTools.ExpandIPv6' method but it's not quite done yet. Please email support@mindpowered.dev to find out when it will be done.", $data);
 			#/src/iptools/IPTools.hx:92: characters 4-58
 			$result = MagLevResult::fromError($err);
 			#/src/iptools/IPTools.hx:93: characters 4-17
@@ -182,8 +182,8 @@ class IPTools {
 			$data->push(MagLevString::fromString("iptools"));
 			#/src/iptools/IPTools.hx:101: characters 4-48
 			$bus->call("MindPowered.Telemetry.Send", $data);
-			#/src/iptools/IPTools.hx:102: characters 4-159
-			$err = MagLevError::create(-20000, "Method 'IPTools.CompressIPv6' has not yet been implemented. Please email support@mindpowered.dev", $data);
+			#/src/iptools/IPTools.hx:102: characters 4-218
+			$err = MagLevError::create(-20000, "You are trying to use the 'IPTools.CompressIPv6' method but it's not quite done yet. Please email support@mindpowered.dev to find out when it will be done.", $data);
 			#/src/iptools/IPTools.hx:103: characters 4-58
 			$result = MagLevResult::fromError($err);
 			#/src/iptools/IPTools.hx:104: characters 4-17

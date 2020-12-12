@@ -1,6 +1,6 @@
 {
     "name": "mindpowered/iptools",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "description": "IPTools",
     "license": "CPAL-1.0",
     "autoload": {

@@ -1,7 +1,7 @@
 
 iptools
 =======
-Tools for working with IP Addresses
+Tools for working with IP4/IP6 Addresses including IPv4, IPv6, CIDR, and Subnet Masks
 
 ![Build Status](https://mindpowered.dev/assets/images/github-badges/build-passing.svg)
 
@@ -20,9 +20,7 @@ Contents
 - Documentation: [https://mindpowered.github.io/ip-tools-php](https://mindpowered.github.io/ip-tools-php)
 
 # Licensing
-This package is dual-licensed under the MIT and CPAL-1.0 licenses.
-
-To obtain a version licensed under the MIT License, follow the instructions at [get a license][purchase].
+To obtain a version of this package under the MIT License, follow the instructions to [get a license][purchase]. The MIT License has no restrictions on commercial use and permits reuse within proprietary software.
 
 # Requirements
 - php >= 7
@@ -70,4 +68,4 @@ There is also a public [Issue Tracker][bugs] available for this package.
 [contact]: https://mindpowered.dev/support.html?ref=ip-tools-php/
 [docs]: https://mindpowered.github.io/ip-tools-php/
 [licensing]: https://mindpowered.dev/?ref=ip-tools-php
-[purchase]: https://mindpowered.dev/purchase/ip-tools-php
+[purchase]: https://mindpowered.dev/purchase/

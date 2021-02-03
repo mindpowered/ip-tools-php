@@ -9,19 +9,16 @@ Contents
 ========
 
 * [Source Code and Documentation](#source-code-and-documentation)
-* [Licensing](#licensing)
 * [About](#about)
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Support](#support)
+* [Licensing](#licensing)
 
 # Source Code and Documentation
 - Source Code: [https://github.com/mindpowered/ip-tools-php](https://github.com/mindpowered/ip-tools-php)
 - Documentation: [https://mindpowered.github.io/ip-tools-php](https://mindpowered.github.io/ip-tools-php)
-
-# Licensing
-To obtain a version of this package under the MIT License, follow the instructions to [get a license][purchase]. The MIT License has no restrictions on commercial use and permits reuse within proprietary software.
 
 # About
 IPv4 uses a 32-bit address for its Internet addresses. All IPv4 addresses are now assigned. IPv6 utilizes 128-bit Internet addresses so there are 1028 times more addresses. Mappings exist for converting from an IPv4 address to an IPv6 addresses. This allows interoperability.
@@ -70,10 +67,13 @@ We are here to support using this package. If it doesn't do what you're looking 
 
 There is also a public [Issue Tracker][bugs] available for this package.
 
+# Licensing
+This package is released under the MIT License.
+
 
 
 [bugs]: https://github.com/mindpowered/ip-tools-php/issues
-[contact]: https://mindpowered.dev/support.html?ref=ip-tools-php/
+[contact]: https://mindpowered.dev/support/?ref=ip-tools-php/
 [docs]: https://mindpowered.github.io/ip-tools-php/
 [licensing]: https://mindpowered.dev/?ref=ip-tools-php
 [purchase]: https://mindpowered.dev/purchase/

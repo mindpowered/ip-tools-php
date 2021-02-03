@@ -1,8 +1,8 @@
 {
     "name": "mindpowered/iptools",
-    "version": "0.0.16",
+    "version": "0.0.17",
     "description": "Tools for working with IP4/IP6 IP Addresses including IPv4, IPv6, CIDR, and Subnet Masks",
-    "license": "CPAL-1.0",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "haxe\\": "lib/haxe/",
